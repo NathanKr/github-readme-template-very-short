@@ -6,8 +6,16 @@
 <h2>Project Description</h2>
 ....
 
+
+
 <h2>Motivation</h2>
 ....
+
+<h2>Key Takeaways</h2>
+<ul>
+    <li>...</li>
+   
+</ul>
 
 <h2>Installation</h2>
 ....
