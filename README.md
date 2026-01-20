@@ -1,53 +1,48 @@
-<h1>Project Name</h1>
-....
 
+# Project Name
 
+...
 
-<h2>Project Description</h2>
-....
+## Project Description
 
+...
 
+## Motivation
 
-<h2>Motivation</h2>
-....
+...
 
-<h2>Key Takeaways</h2>
-<ul>
-    <li>...</li>
-   
-</ul>
+## Key Takeaways
+* [Item 1]
+* [Item 2]
 
-<h2>Installation</h2>
-....
+## Installation
 
+...
 
-<h2>Usage</h2>
-....
+## Usage
 
+...
 
-<h2>Technologies Used</h2>
-....
+## Technologies Used
 
+...
 
-<h2>Design</h2>
-....
+## Design
 
+...
 
-<h2>Code Structure</h2>
-....
+## Code Structure
 
-<h2>Demo</h2>
-....
+...
 
-<h2>Points of Interest</h2>
-<ul>
-    <li>...</li>
-   
-</ul>
+## Demo
 
-<h2>References</h2>
-<ul>
-    <li>...</li>
-   
-</ul>
+...
 
+## Points of Interest
+* [Item 1]
+* [Item 2]
+
+## References
+* [Link/Reference 1]
+* [Link/Reference 2]
