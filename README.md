@@ -12,8 +12,8 @@
 ...
 
 ## Key Takeaways
-* [Item 1]
-* [Item 2]
+- [Item 1]
+- [Item 2]
 
 ## Installation
 
@@ -40,9 +40,9 @@
 ...
 
 ## Points of Interest
-* [Item 1]
-* [Item 2]
+- [Item 1]
+- [Item 2]
 
 ## References
-* [Link/Reference 1]
-* [Link/Reference 2]
+- [Link/Reference 1]
+- [Link/Reference 2]
