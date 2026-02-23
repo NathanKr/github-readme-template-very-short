@@ -29,7 +29,16 @@
 
 ## Design
 
-...
+### Constraints
+
+### Three Sesign Options
+- [Item 1]
+- [Item 2]
+- [Item 3]
+
+
+### Chosen Design
+
 
 ## Code Structure
 
