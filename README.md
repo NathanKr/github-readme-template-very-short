@@ -35,7 +35,7 @@
 
 ### Constraints
 
-### Three Sesign Options
+### Three Design Options
 - [Item 1]
 - [Item 2]
 - [Item 3]
