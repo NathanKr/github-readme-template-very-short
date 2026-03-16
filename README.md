@@ -32,8 +32,13 @@
 
 ### Questions
 
+...
+
 
 ### Constraints
+
+...
+
 
 ### Three Design Options
 - [Item 1]
@@ -43,6 +48,11 @@
 
 ### Chosen Design
 
+...
+
+###  Mermaid diagram (sequence , flowchart , class , state)
+
+...
 
 ## Code Structure
 
